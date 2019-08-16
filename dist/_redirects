@@ -1,1 +1,2 @@
 /api/www/* https://jsonplaceholder.typicode.com/:splat 200
+/game/* /api/Lotto/game/:splat 200
